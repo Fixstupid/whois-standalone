@@ -1,6 +1,6 @@
 whois-"#standalone" 
 Xml file from my phone
-It a shared data file.. normal?
+Its a shared data file.. normal?
 {
   "historical-records": {
     "historical-record": [
